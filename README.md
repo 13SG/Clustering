@@ -1,2 +1,2 @@
 # Clustering
-Comparative Study of ML algorithms
+Comparative Study of ML algorithms.
